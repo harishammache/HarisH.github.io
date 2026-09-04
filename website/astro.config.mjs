@@ -4,6 +4,10 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://cappiegold.github.io",
+  server: {
+    host: true,
+  },
   vite: {
     plugins: [tailwindcss()],
   },
