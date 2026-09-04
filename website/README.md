@@ -1,10 +1,10 @@
 # cappiegold.github.io
 
-Mon portfolio personnel de développeur fullstack, construit avec Astro et Tailwind CSS.
+My personal portfolio as a fullstack developer, built with Astro and Tailwind CSS.
 
-## Aperçu
+## Preview
 
-Site en ligne : [https://cappiegold.github.io](https://cappiegold.github.io)
+Live site: [https://cappiegold.github.io](https://cappiegold.github.io)
 
 ## Built With
 
@@ -13,20 +13,20 @@ Site en ligne : [https://cappiegold.github.io](https://cappiegold.github.io)
 - **[Tabler Icons](https://tabler.io/icons)** - Free and open source icons
 - **TypeScript** - For type-safe configuration
 
-## Configuration du contenu
+## Content configuration
 
-Tout le contenu du site se modifie dans le fichier `src/config.ts` :
+All the site's content is managed in the `src/config.ts` file:
 
-- **Infos personnelles** : nom, titre, description
-- **Couleur d'accent** : couleur principale du thème
-- **Réseaux sociaux** : email, LinkedIn, Twitter, GitHub (tous optionnels)
-- **À propos** : bio personnelle
-- **Compétences** : liste des compétences techniques
-- **Projets** : présentation de projets avec description et lien
-- **Expérience** : parcours professionnel
-- **Formation** : parcours scolaire
+- **Personal info**: name, title, description
+- **Accent color**: theme's main color
+- **Social links**: email, LinkedIn, Twitter, GitHub (all optional)
+- **About**: personal bio
+- **Skills**: list of technical skills
+- **Projects**: project showcase with description and link
+- **Experience**: work history
+- **Education**: academic background
 
-Si une section (compétences, projets, expérience, formation) est vide dans la config, elle est automatiquement masquée.
+If a section (skills, projects, experience, education) is left empty in the config, it is automatically hidden.
 
 ## Project Structure
 
@@ -56,13 +56,13 @@ website/
 
 ## Local Development
 
-Pour lancer le projet en local :
+To run the project locally:
 
 ```
 npm install
 ```
 
-Puis démarrer le serveur de développement Astro :
+Then start the Astro dev server:
 
 ```
 npm run dev
@@ -70,4 +70,4 @@ npm run dev
 
 ## Deployment
 
-Ce site est déployé automatiquement sur GitHub Pages via GitHub Actions à chaque push sur `main`.
+This site is automatically deployed to GitHub Pages via GitHub Actions on every push to `main`.
