@@ -50,7 +50,6 @@ website/
 │   └── config.ts            # Site configuration
 ├── astro.config.mjs         # Astro configuration
 ├── package.json             # Project dependencies
-├── tailwind.config.js       # Tailwind configuration
 └── tsconfig.json            # TypeScript configuration
 ```
 
@@ -59,6 +58,7 @@ website/
 To run the project locally:
 
 ```
+cd website
 npm install
 ```
 
