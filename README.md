@@ -4,7 +4,7 @@ My personal portfolio as a fullstack developer, built with Astro and Tailwind CS
 
 ## Preview
 
-Live site: [https://harish.github.io](https://harish.github.io)
+Live site: [https://harishammache.github.io/HarisH.github.io/](https://harishammache.github.io/HarisH.github.io/)
 
 ## Built With
 
