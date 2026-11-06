@@ -1,10 +1,10 @@
-# cappiegold.github.io
+# HarisH.github.io
 
 My personal portfolio as a fullstack developer, built with Astro and Tailwind CSS.
 
 ## Preview
 
-Live site: [https://cappiegold.github.io](https://cappiegold.github.io)
+Live site: [https://harish.github.io](https://harish.github.io)
 
 ## Built With
 
